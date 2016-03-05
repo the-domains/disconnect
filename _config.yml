@@ -1,0 +1,28 @@
+name: Disconnect
+favicon: null
+layout_spectrum: 0.5177235885057598
+typography_spectrum: 0.41835909173823893
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6579195254016668
+  lightness: 0.16468982305377722
+  saturation: 0.5292933522723615
+  rhythmicContrast: 0.6088897313456982
+purpose: []
