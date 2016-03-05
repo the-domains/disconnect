@@ -2,6 +2,7 @@ name: Disconnect
 favicon: null
 layout_spectrum: 0.5177235885057598
 typography_spectrum: 0.41835909173823893
+title: Disconnect
 cta:
   domain: null
   bucket: null
